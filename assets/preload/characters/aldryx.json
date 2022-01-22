@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "bf idle",
+			"name": "Aldryx idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "bf left",
+			"name": "Aldryx left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "bf down",
+			"name": "Aldryx down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "bf up",
+			"name": "Aldryx up",
 			"indices": []
 		},
 		{
@@ -52,27 +52,27 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "bf right",
+			"name": "Aldryx right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "entity/aldryx/ALDRYX",
 	"position": [
-		-210,
-		-240
+		70,
+		-180
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "aldryx",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		64,
+		51,
+		49
 	],
 	"camera_position": [
-		-10,
-		350
+		290,
+		50
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 0.8
 }

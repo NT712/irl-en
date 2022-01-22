@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				340,
+				590
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "bf idle",
+			"name": "Sol idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				340,
+				590
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "bf left",
+			"name": "Sol left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				340,
+				590
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "bf down",
+			"name": "Sol down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				340,
+				590
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "bf up",
+			"name": "Sol up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				340,
+				590
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "bf right",
+			"name": "Sol right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "entity/sol/Solazar_Sprites",
 	"position": [
-		-210,
-		-240
+		400,
+		0
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "sol",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		254,
+		255,
+		228
 	],
 	"camera_position": [
-		-10,
-		350
+		160,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 0.4
 }

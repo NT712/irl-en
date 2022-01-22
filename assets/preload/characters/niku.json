@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "bf idle",
+			"name": "nikusa idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "bf left",
+			"name": "nikusa left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "bf down",
+			"name": "nikusa down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "bf up",
+			"name": "nikusa up",
 			"indices": []
 		},
 		{
@@ -52,26 +52,26 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "bf right",
+			"name": "nikusa right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "entity/nikusa/Nikusa_Sprites",
 	"position": [
-		-210,
-		-240
+		-240,
+		-660
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "niku",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		161,
+		161,
+		161
 	],
 	"camera_position": [
-		-10,
-		350
+		500,
+		420
 	],
 	"sing_duration": 6.1,
 	"scale": 0.5
